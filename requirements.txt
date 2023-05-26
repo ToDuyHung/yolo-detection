@@ -1,0 +1,7 @@
+pandas
+opencv-python 
+numpy
+pdf2image
+ultralytics==8.0.20
+# onnxruntime-gpu
+onnxruntime
